@@ -1,8 +1,8 @@
-# CS- Backend
-This is the backend for the Customer Service Platform. It handles user authentication using Google OAuth and manages service requests.
+# CS - Frontend
+This is the frontend for the Customer Service Platform. It provides a user interface for logging in with Google OAuth and managing service requests.
 ## Installation
 1. Clone the repository.
-2. Navigate to the backend directory.
+2. Navigate to the frontend directory.
 3. Install the dependencies:
    ```sh
    npm install
