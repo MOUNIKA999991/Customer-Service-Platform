@@ -1,2 +1,8 @@
-# Customer-Service-Platform
-Creating a customer service platform where users can log in using Google OAuth and interact with customer service through Intercom.com.
+# CS- Backend
+This is the backend for the Customer Service Platform. It handles user authentication using Google OAuth and manages service requests.
+## Installation
+1. Clone the repository.
+2. Navigate to the backend directory.
+3. Install the dependencies:
+   ```sh
+   npm install
